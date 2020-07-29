@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cc6423a-76b6-4cf1-a43f-271ce3a744eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/Spring5WebfluxRestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/Spring5WebfluxRestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/bootstrap/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/bootstrap/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/controllers/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/controllers/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/controllers/VendorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/controllers/VendorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/domain/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/domain/Vendor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/domain/Vendor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/repositories/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/repositories/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5webfluxrest/repositories/VendorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webfluxrest/repositories/VendorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/springframework/spring5webfluxrest/Spring5WebfluxRestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webfluxrest/Spring5WebfluxRestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/springframework/spring5webfluxrest/controllers/CategoryControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webfluxrest/controllers/CategoryControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/springframework/spring5webfluxrest/controllers/VendorControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/webfluxrest/controllers/VendorControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1czcDFtc4Pk5L3DvjE7Qsfqw7Fr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/docker-compose.yml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Spring5WebfluxRestApplication">
+    <configuration name="CategoryControllerTest.testPatchWithChanges" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;guru.springframework.spring5webfluxrest.controllers.CategoryControllerTest.testPatchWithChanges&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Spring5WebfluxRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring5-webflux-rest.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="webfluxrest.Spring5WebfluxRestApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.CategoryControllerTest.testPatchWithChanges" />
+      <item itemvalue="Spring Boot.Spring5WebfluxRestApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CategoryControllerTest.testPatchWithChanges" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc6423a-76b6-4cf1-a43f-271ce3a744eb" name="Default Changelist" comment="" />
+      <created>1591534740908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591534740908</updated>
+      <workItem from="1591534743267" duration="101000" />
+      <workItem from="1591554748524" duration="1631000" />
+      <workItem from="1591693782290" duration="1504000" />
+      <workItem from="1592397734338" duration="8000" />
+      <workItem from="1592397973660" duration="1713000" />
+      <workItem from="1592647727665" duration="3494000" />
+      <workItem from="1592652143519" duration="1556000" />
+      <workItem from="1596019176514" duration="1607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="96" width="800" height="677" key="#Docker" timestamp="1591555012522">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="315" y="96" width="800" height="677" key="#Docker/0.27.1440.818@0.27.1440.818" timestamp="1591555012522" />
+    <state x="178" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596019951241">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="178" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.818@0.27.1440.818" timestamp="1596019951241" />
+    <state x="561" y="323" width="514" height="357" key="DockerComposeFileDialog" timestamp="1591554948908">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="561" y="323" width="514" height="357" key="DockerComposeFileDialog/0.27.1440.818@0.27.1440.818" timestamp="1591554948908" />
+    <state x="601" y="260" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591554947740">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="601" y="260" width="424" height="484" key="FileChooserDialogImpl/0.27.1440.818@0.27.1440.818" timestamp="1591554947740" />
+    <state width="1394" height="168" key="GridCell.Tab.0.bottom" timestamp="1596020071879">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.0.bottom/0.27.1440.818@0.27.1440.818" timestamp="1596020071879" />
+    <state width="1394" height="168" key="GridCell.Tab.0.center" timestamp="1596020071877">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.0.center/0.27.1440.818@0.27.1440.818" timestamp="1596020071877" />
+    <state width="1394" height="168" key="GridCell.Tab.0.left" timestamp="1596020071876">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.0.left/0.27.1440.818@0.27.1440.818" timestamp="1596020071876" />
+    <state width="1394" height="168" key="GridCell.Tab.0.right" timestamp="1596020071878">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.0.right/0.27.1440.818@0.27.1440.818" timestamp="1596020071878" />
+    <state width="1394" height="168" key="GridCell.Tab.1.bottom" timestamp="1596020071882">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.1.bottom/0.27.1440.818@0.27.1440.818" timestamp="1596020071882" />
+    <state width="1394" height="168" key="GridCell.Tab.1.center" timestamp="1596020071881">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.1.center/0.27.1440.818@0.27.1440.818" timestamp="1596020071881" />
+    <state width="1394" height="168" key="GridCell.Tab.1.left" timestamp="1596020071880">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.1.left/0.27.1440.818@0.27.1440.818" timestamp="1596020071880" />
+    <state width="1394" height="168" key="GridCell.Tab.1.right" timestamp="1596020071881">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="168" key="GridCell.Tab.1.right/0.27.1440.818@0.27.1440.818" timestamp="1596020071881" />
+    <state width="1394" height="280" key="GridCell.Tab.2.bottom" timestamp="1591556379698">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="280" key="GridCell.Tab.2.bottom/0.27.1440.818@0.27.1440.818" timestamp="1591556379698" />
+    <state width="1394" height="280" key="GridCell.Tab.2.center" timestamp="1591556379698">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="280" key="GridCell.Tab.2.center/0.27.1440.818@0.27.1440.818" timestamp="1591556379698" />
+    <state width="1394" height="280" key="GridCell.Tab.2.left" timestamp="1591556379698">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="280" key="GridCell.Tab.2.left/0.27.1440.818@0.27.1440.818" timestamp="1591556379698" />
+    <state width="1394" height="280" key="GridCell.Tab.2.right" timestamp="1591556379698">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state width="1394" height="280" key="GridCell.Tab.2.right/0.27.1440.818@0.27.1440.818" timestamp="1591556379698" />
+    <state x="209" y="27" width="1024" height="818" key="SettingsEditor" timestamp="1591554911299">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="209" y="27" width="1024" height="818" key="SettingsEditor/0.27.1440.818@0.27.1440.818" timestamp="1591554911299" />
+    <state x="410" y="43" width="620" height="783" key="find.popup" timestamp="1596020494994">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="410" y="43" width="620" height="783" key="find.popup/0.27.1440.818@0.27.1440.818" timestamp="1596020494994" />
+    <state x="384" y="194" key="run.anything.popup" timestamp="1596019201897">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="384" y="194" key="run.anything.popup/0.27.1440.818@0.27.1440.818" timestamp="1596019201897" />
+    <state x="383" y="166" width="672" height="678" key="search.everywhere.popup" timestamp="1596020424029">
+      <screen x="0" y="27" width="1440" height="818" />
+    </state>
+    <state x="383" y="166" width="672" height="678" key="search.everywhere.popup/0.27.1440.818@0.27.1440.818" timestamp="1596020424029" />
+  </component>
+</project>
